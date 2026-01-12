@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a 2nd year Computer Science PhD student at UC Santa Cruz. Currently a project lead on creating a cyberdefense coding eval for frontier AI models through [Supervised Program for Alignment Research (SPAR)](https://sparai.org/). My work has been supported by GPU compute credits from Prime Intellect, Lium.io, and Modal.
+Hi! I'm a 2nd year Computer Science PhD student at UC Santa Cruz. Currently a project lead on creating a cyberdefense coding eval for frontier AI models through [Supervised Program for Alignment Research (SPAR)](https://sparai.org/), where our project won the First Place Best Poster award (for $2000!). My work has been supported by GPU compute credits from Prime Intellect, Lium.io, and Modal. 
 
-Lately, I've also been working on RL enivronments for Prime Intellect's Environments Hub, you can check them out [here](https://app.primeintellect.ai/dashboard/user/rose)!
+Lately, my latest interests are creating evals for agents and RL with LLMs. I've also been working on RL enivronments for Prime Intellect's Environments Hub, you can check them out [here](https://app.primeintellect.ai/dashboard/user/rose)!
