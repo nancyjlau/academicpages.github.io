@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Winter - Spring 2025: Graduate Student Researcher
+* Winter - Spring 2026: Graduate Student Researcher
   * UC Santa Cruz
 
 Publications
