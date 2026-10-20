@@ -1,6 +1,8 @@
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
+This fork publishes Nancy Lau's website at [www.nlau.ai](https://www.nlau.ai) through Cloudflare Pages. Pushes to `master` trigger deployment, and GitHub Actions runs a separate Jekyll build check.
+
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
 # Getting Started
