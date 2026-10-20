@@ -33,6 +33,10 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.original_publication and post.canonical_url %}
+      <p class="page__meta">Mirror · Originally published on <a href="{{ post.canonical_url | escape }}">{{ post.original_publication | escape }}</a></p>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>

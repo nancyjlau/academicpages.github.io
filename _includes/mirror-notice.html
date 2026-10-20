@@ -1,0 +1,6 @@
+{% if page.original_publication and page.canonical_url %}
+<aside class="notice" aria-label="Original publication">
+  <p><strong>Mirror</strong> · Originally published on <a href="{{ page.canonical_url | escape }}" rel="external">{{ page.original_publication | escape }}</a>.
+  {% if page.original_authors %}<br>By {{ page.original_authors | escape }}.{% endif %}</p>
+</aside>
+{% endif %}
