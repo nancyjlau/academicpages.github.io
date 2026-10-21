@@ -1,8 +1,11 @@
 ---
-title: "What is a good task?"
+title: "What is a good RL task?"
 date: 2026-09-22
 permalink: /posts/2026/09/what-is-a-good-task/
-excerpt: "What makes a useful task for evaluating and training AI agents: realism, fair grading, and meaningful difficulty."
+excerpt: |
+  Benchmarks are made up of tasks, and the quality of your benchmark comes down to the quality of each one.
+
+  A task is a problem you give an agent, where it gets tools and files to work with, along with a way to score its output. There are three parts to…
 canonical_url: https://www.hud.ai/research/what-is-a-good-task
 original_publication: HUD
 original_authors: "Reinis Salaks, Ilya Kuhta, and Nancy Lau"
@@ -14,7 +17,7 @@ tags:
 
 {% include mirror-notice.html %}
 
-![What is a good task?]({{ '/images/posts/what-is-a-good-task/task-cover.png' | relative_url }})
+![What is a good RL task?]({{ '/images/posts/what-is-a-good-task/task-cover.png' | relative_url }})
 
 Benchmarks are made up of tasks, and the quality of your benchmark comes down to the quality of each one.
 
